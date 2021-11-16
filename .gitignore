@@ -1,4 +1,5 @@
 # dir 不需要提交的目录
+/_book
 /node_modules
 ​
 # file 不需要提交的文件
